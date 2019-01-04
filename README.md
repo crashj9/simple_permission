@@ -8,4 +8,4 @@ Let's apply Android Permission more easily.
 
 기능<br>
     activity를 호출하여 onResultActivity로 응답을 확인<br>
-    Listener를 등록하여 응답을 listener의 method로 확인 
+    Listener를 등록하여 응답을 listener의 method로 확인
